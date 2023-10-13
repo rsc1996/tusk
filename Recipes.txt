@@ -1,10 +1,18 @@
 Welcome to the Cloud Kitchen
 
+Starters
 White Sause Pasta 
 Pizza
-Barfi
 Burger
+
+Breakfasts
 English Breakfast
 American Breakfast
 South Indian Breakfast
+
+Desserts
+Barfi
+Kulfi
+Icecream
+
 Thank you
